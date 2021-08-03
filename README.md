@@ -11,13 +11,12 @@ visit decentralized exchange for TT <a href="https://www.swap.idamurni.de">https
 <p>feel free create a pull request it cost almoust nothing!</p>
 
 ```javascript
-    "tokens": [
-      {
-        "name": "IDA MURNI",
-        "address": "0xCEc9E27a031632d8D29E6d2F91427Ca0F9370C28",
-        "symbol": "IDA",
-        "decimals": 18,
-        "chainId": 108,
-        "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
-      }
+  {
+    "name": "IDA MURNI",
+    "address": "0xCEc9E27a031632d8D29E6d2F91427Ca0F9370C28",
+    "symbol": "IDA",
+    "decimals": 18,
+    "chainId": 108,
+    "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
+  }
 ```
