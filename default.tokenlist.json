@@ -1,24 +1,25 @@
 
-{  "name": "IdaMurni List",
-    "timestamp": "2020-06-15T12:00:00+00:00",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
-    },
-    "keywords": [
-      "swap.idamurni",
-      "default",
-      "list"
-    ],
-    "tokens": [
-      {
-        "name": "IDA MURNI",
-        "address": "0xCEc9E27a031632d8D29E6d2F91427Ca0F9370C28",
-        "symbol": "IDA",
-        "decimals": 18,
-        "chainId": 108,
-        "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
-      }
-    ]
-  }
+{  
+  "name": "IdaMurni List",
+  "timestamp": "2020-06-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "swapidamurni",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "name": "IDA MURNI",
+      "address": "0xd3867bc7dAc445043B634534757A69f503091D3f",
+      "symbol": "IDA",
+      "decimals": 18,
+      "chainId": 108,
+      "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
+    }
+  ]
+}
