@@ -13,7 +13,7 @@
   ],
   "tokens": [
     {
-      "name": "IDA MURNI",
+      "name": "IdaMurni",
       "address": "0xCcAE06Ec0787c07D7dF5a60856C73A113Fc7CF9A",
       "symbol": "IDA",
       "decimals": 18,
@@ -103,7 +103,7 @@
      {
       "name": "0xBitcoin",
       "address": "0x71b821aa52a49f32eed535fca6eb5aa130085978",
-      "symbol": "0xBtc",
+      "symbol": "0xBTC",
       "decimals": 8,
       "chainId": 137,
       "logoURI": "https://polygonscan.com/token/images/0xbitcoin_32.png"
