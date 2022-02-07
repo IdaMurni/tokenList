@@ -2,9 +2,9 @@
   "name": "IdaMurni Default",
   "timestamp": "2021-09-02T14:34:09.544Z",
   "version": {
-    "major": 4,
+    "major": 0,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png",
   "keywords": [
